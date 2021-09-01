@@ -5,7 +5,7 @@ import time
 from requests import get
 from datetime import datetime
 
-TOKEN_AUTH = "MzA0NjU1NzI0ODQ2MzgzMTA0.YPcs5A.LjedI87PuUyQPze1GNMm3f-ZsXU" # YOUR TOKEN HERE
+TOKEN_AUTH = "MzA0NjU1NzI0ODQ2MzgzMTA0.YSxZGw.WUSYHlMFdgt2P_Rb-lJtYrN1jYk" # YOUR TOKEN HERE
 ip = "" # YOUR IP HERE, LEAVE BLANK IF YOU DONT USE A VPN
 username = "madetheheadline" # YOUR USERNAME HERE, THE THING PEOPLE CALL U
 now = datetime.now()
